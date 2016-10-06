@@ -13,6 +13,7 @@
 - [PHP PSR-3 日志接口规范][psr-3]
 - [PHP PSR-4 自动载入Autoloader][psr-4]
 - [PHP PSR-4 自动载入Autoloader - 相关示例][psr-4-examples]
+- [PHP PSR-7 HTTP消息接口][psr-7]
 
 
 [psr-0]:psr-0.md
@@ -21,6 +22,7 @@
 [psr-3]:psr-3.md
 [psr-4]:psr-4.md
 [psr-4-examples]:psr-4-examples.md
+[psr-7]:psr-7.md
 
 [PHP-FIG]: https://github.com/php-fig/
 [PSR]: https://github.com/php-fig/fig-standards
