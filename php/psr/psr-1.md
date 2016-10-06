@@ -156,4 +156,6 @@ class Foo
 
 -------------
 
-原文：https://github.com/PizzaLiu/PHP-FIG/blob/master/PSR-1-basic-coding-standard-cn.md
+原文
+
+- https://github.com/PizzaLiu/PHP-FIG/blob/master/PSR-1-basic-coding-standard-cn.md
