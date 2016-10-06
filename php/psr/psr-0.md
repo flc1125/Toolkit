@@ -70,6 +70,6 @@ SplClassLoader 实例
 
 原文
 
-- https://github.com/PizzaLiu/PHP-FIG/blob/master/PSR-1-basic-coding-standard-cn.md
+- https://github.com/PizzaLiu/PHP-FIG/blob/master/PSR-0-cn.md
 
 [PSR-4]: psr-4.md
