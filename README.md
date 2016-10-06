@@ -2,6 +2,6 @@
 
 ## PHP
 
-- [psr 编码规范][psr]
+- [PHP PSR 编码规范][psr]
 
 [psr]:php/psr
