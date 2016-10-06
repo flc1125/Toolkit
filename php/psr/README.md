@@ -7,3 +7,4 @@
 
 [psr-1]:psr-1.md
 [psr-2]:psr-2.md
+[psr-3]:psr-3.md
