@@ -15,6 +15,12 @@
 - [PHP PSR-4 自动载入Autoloader - 相关示例][psr-4-examples]
 - [PHP PSR-7 HTTP消息接口][psr-7]
 
+----
+
+原文：
+
+- https://github.com/PizzaLiu/PHP-FIG
+
 
 [psr-0]:psr-0.md
 [psr-1]:psr-1.md
