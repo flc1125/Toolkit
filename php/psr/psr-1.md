@@ -1,6 +1,4 @@
-# PHP PSR-1 基本代码规范(中文版)
-
-基本代码规范
+PHP PSR-1 基本代码规范
 =====================
 
 本篇规范制定了代码基本元素的相关标准，
@@ -155,3 +153,7 @@ class Foo
 ### 4.3. 方法
 
 方法名称**必须**符合 `camelCase()` 式的小写开头驼峰命名规范。
+
+-------------
+
+原文：https://github.com/PizzaLiu/PHP-FIG/blob/master/PSR-1-basic-coding-standard-cn.md
