@@ -11,12 +11,15 @@
 - [PHP PSR-1 基本代码规范][psr-1]
 - [PHP PSR-2 代码风格规范][psr-2]
 - [PHP PSR-3 日志接口规范][psr-3]
+- [PHP PSR-4 自动载入Autoloader][psr-4]
 
 
 [psr-0]:psr-0.md
 [psr-1]:psr-1.md
 [psr-2]:psr-2.md
 [psr-3]:psr-3.md
+[psr-4]:psr-4.md
+
 [PHP-FIG]: https://github.com/php-fig/
 [PSR]: https://github.com/php-fig/fig-standards
 [莫希爾(Mosil)手札]: https://github.com/mosil/fig-standards
