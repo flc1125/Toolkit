@@ -145,4 +145,3 @@ $ supervisorctl status
 - 原文： https://www.load-page.com/base/manual/56#h1--supervisor0
 - 廖雪峰教程：http://www.liaoxuefeng.com/article/0013738926914703df5e93589a14c19807f0e285194fe84000
 - 教程：http://everet.org/supervisor.html
-- 
