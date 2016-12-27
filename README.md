@@ -8,6 +8,7 @@
 ## Shell
 
 - [supervisor进程监控](shell/supervisor.md) 
+- [gitlab安装](shell/gitlab.md) 
 
 ## 其他工具
 
