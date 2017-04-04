@@ -13,3 +13,4 @@
 ## 其他工具
 
 - [书签](tools/bookmark.md)
+- [sublime配置及插件](tools/sublime.md)
